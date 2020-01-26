@@ -1,3 +1,3 @@
 # owl
 
-[https://🦉.tmos.es]
+<https://🦉.tmos.es>
